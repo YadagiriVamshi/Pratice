@@ -8,6 +8,8 @@ public class PraticeOnetoOneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PraticeOnetoOneApplication.class, args);
+		System.out.println("yvy");
+		
 	}
 
 }
